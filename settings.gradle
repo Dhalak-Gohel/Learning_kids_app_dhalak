@@ -1,0 +1,2 @@
+rootProject.name = "Learning_kids_app_dhalak"
+include ':app'
